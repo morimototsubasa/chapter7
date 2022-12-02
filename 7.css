@@ -5,22 +5,28 @@
   color: #6c6b6b;
 }
 .main-visual{
-  
+  background-image: url();
+  background-size: cover;
+  width: 100%;
+  height: 400px;
 }
 .main-visual-text{
-  
+  padding: 20px 0 0 20px;
 }
 .main{
-  
+  margin: 0 auto;
+  width: 840px;
+  padding: 50px 0;
 }
 .main-item{
-  
+  border-bottom: 1px solid black;
 }
 .main-logo{
-  
+  margin-top: 30px;
 }
+
 .main-text{
-  
+  margin-bottom: 30px;
 }
 footer{
   
